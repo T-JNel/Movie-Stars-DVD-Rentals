@@ -112,3 +112,10 @@ What I want to add for practice:
 14. Simple GUI
 15. Unit tests
 16. Exception classes
+
+Tools I will be using:
+Coding:
+- GitHub Desktop
+- VS Code
+- Python
+
